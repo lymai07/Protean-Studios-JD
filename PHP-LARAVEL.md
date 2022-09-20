@@ -4,12 +4,16 @@
 - Dành thời gian và tâm huyết để chăm chút từng dự án, từng sản phẩm như những “đứa con tinh thần” của mình.
 
 2.YÊU CẦU ỨNG VIÊN
+
+
 Must have: 
 - Có ít nhất 1 năm kinh nghiệm với PHP, MySQL và Laravel. 
 - Có khả năng làm việc độc lập và hướng dẫn nhóm.
 - Đam mê, nhiệt huyết, dám thử thách, dám thành công.
 - Có khả năng đề xuất, đưa ra giải pháp cho các vấn đề của project.
 - Có khả năng xây dựng kiến trúc hệ thống, tối ưu hệ thống.
+
+
 Nice to have: 
 - Có khả năng sử dụng một số Javascript Framework như Vue.js, React.js, Angular JS
 - Có kinh nghiệm sử dụng MongoDB, PostgreSQL.
@@ -41,6 +45,6 @@ Nice to have:
 - Địa chỉ công ty: tòa nhà sông Đà, số 18 Ngõ 165 Cầu Giấy, Hà Nội 
 - Hotline: 035.856.9977 (Ms.Ly) 
 
- 5. Contact HR 
- Ly Mai - zalo: 035.856.9977/ Skype: maihuongly.vcu
- Email: ly.mth@proteanstudios.com
+5. Contact HR 
+Ly Mai - zalo: 035.856.9977/ Skype: maihuongly.vcu
+Email: ly.mth@proteanstudios.com
