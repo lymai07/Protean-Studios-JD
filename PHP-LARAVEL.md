@@ -1,17 +1,16 @@
-I. MÔ TẢ CÔNG VIỆC
-# What You Will Do Is
+1. MÔ TẢ CÔNG VIỆC
 - Tham gia thiết kế và xây dựng kiến trúc dự án từ “con số 0”.
 - Tự do đề xuất cũng như ứng dụng các phương thức chuẩn hóa nhằm tối ưu chất lượng sản phẩm cũng như gia tăng tốc độ phát triển dự án.
 - Dành thời gian và tâm huyết để chăm chút từng dự án, từng sản phẩm như những “đứa con tinh thần” của mình.
 
-II.YÊU CẦU ỨNG VIÊN
-# Must have
+2.YÊU CẦU ỨNG VIÊN
+Must have: 
 - Có ít nhất 1 năm kinh nghiệm với PHP, MySQL và Laravel. 
 - Có khả năng làm việc độc lập và hướng dẫn nhóm.
 - Đam mê, nhiệt huyết, dám thử thách, dám thành công.
 - Có khả năng đề xuất, đưa ra giải pháp cho các vấn đề của project.
 - Có khả năng xây dựng kiến trúc hệ thống, tối ưu hệ thống.
-# Nice to have
+Nice to have: 
 - Có khả năng sử dụng một số Javascript Framework như Vue.js, React.js, Angular JS
 - Có kinh nghiệm sử dụng MongoDB, PostgreSQL.
 - Có kinh nghiệm làm việc với Docker.
@@ -20,8 +19,7 @@ II.YÊU CẦU ỨNG VIÊN
 - Biết DevOps là 1 lợi thế.
  
  
-III. QUYỀN LỢI ĐƯỢC HƯỞNG
-# We Offer You
+3. QUYỀN LỢI ĐƯỢC HƯỞNG
 - Mức thu nhập từ 15M - 30M 
 - Vé xe hàng tháng tại công ty 
 - Sau thời gian thử việc, được hưởng đầy đủ các chế độ bảo hiểm, bảo hiểm y tế theo luật Việt Nam và quy định của công ty.
@@ -38,12 +36,11 @@ III. QUYỀN LỢI ĐƯỢC HƯỞNG
 - Được làm việc với thời gian linh hoạt từ T2 – T6 (9h – 18h), không còn áp lực tắc đường, đến muộn chút cũng không sao ;).
 - Cơ hội học hỏi và phát triển năng lực bản thân thông qua những dự án thực tế.
 
-IV. tHÔNG TIN CÔNG TY
+4.THÔNG TIN CÔNG TY
 - Thời gian làm việc: 9h - 18h, T2 - T6 
 - Địa chỉ công ty: tòa nhà sông Đà, số 18 Ngõ 165 Cầu Giấy, Hà Nội 
 - Hotline: 035.856.9977 (Ms.Ly) 
 
-
- Contact HR 
+ 5. Contact HR 
  Ly Mai - zalo: 035.856.9977/ Skype: maihuongly.vcu
- Email: ly.mth@proteanstudios.com 
+ Email: ly.mth@proteanstudios.com
