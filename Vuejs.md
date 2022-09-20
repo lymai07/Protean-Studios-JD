@@ -15,6 +15,7 @@ Protean Studios đang tìm kiếm các nhân tài có kinh nghiệm làm việc 
 
 
 3. YÊU CẦU ỨNG VIÊN
+
 Must have
 - Có hơn 2 năm kinh nghiệm sử dụng: JavaScript hoặc Typescript.
 - Thành thạo làm việc với Web-API và REST nói chung.
