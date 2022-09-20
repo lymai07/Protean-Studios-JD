@@ -5,7 +5,6 @@
 
 2.YÊU CẦU ỨNG VIÊN
 
-
 Must have: 
 - Có ít nhất 1 năm kinh nghiệm với PHP, MySQL và Laravel. 
 - Có khả năng làm việc độc lập và hướng dẫn nhóm.
